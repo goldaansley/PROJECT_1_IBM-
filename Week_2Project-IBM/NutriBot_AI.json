@@ -1,0 +1,160 @@
+{
+  "project": {
+    "name": "NutriBot AI Assistant",
+    "version": "1.0.0",
+    "description": "An AI-powered nutrition and recipe assistant that provides personalized recipes, meal planning, nutritional analysis, ingredient substitutions, and healthy eating recommendations.",
+    "developer": {
+      "name": "Ansley Golda.B",
+      "college": "J.N.N Institute of Engineering",
+      "department": "Computer Science and Engineering",
+      "academicYear": "2026-2027"
+    }
+  },
+
+  "features": [
+    "Recipe Recommendation",
+    "Meal Planning",
+    "Nutrition Analysis",
+    "Ingredient Substitution",
+    "Cuisine-Based Recipes",
+    "Cooking Time Filter",
+    "Diet Preference Support",
+    "Food Waste Reduction",
+    "Healthy Eating Suggestions",
+    "Step-by-Step Cooking Instructions"
+  ],
+
+  "supportedDiets": [
+    "Vegetarian",
+    "Vegan",
+    "Keto",
+    "Low Carb",
+    "High Protein",
+    "Gluten Free",
+    "Diabetic Friendly"
+  ],
+
+  "recipeSearch": {
+    "ingredients": true,
+    "dishName": true,
+    "cuisine": true,
+    "diet": true,
+    "maxCookingTime": true,
+    "difficulty": true
+  },
+
+  "sampleRecipe": {
+    "id": 101,
+    "name": "Vegetable Fried Rice",
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "cookingTime": 25,
+    "servings": 2,
+    "ingredients": [
+      "Rice",
+      "Carrot",
+      "Beans",
+      "Capsicum",
+      "Onion",
+      "Garlic",
+      "Soy Sauce",
+      "Pepper",
+      "Salt"
+    ],
+    "steps": [
+      "Cook the rice and allow it to cool.",
+      "Saute garlic and onion.",
+      "Add vegetables and cook for 5 minutes.",
+      "Mix in rice and soy sauce.",
+      "Season with salt and pepper.",
+      "Serve hot."
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": "9g",
+      "carbohydrates": "55g",
+      "fat": "8g",
+      "fiber": "6g"
+    }
+  },
+
+  "nutritionGoals": [
+    "Weight Loss",
+    "Weight Gain",
+    "Muscle Building",
+    "Balanced Diet",
+    "Heart Healthy",
+    "Diabetes Management"
+  ],
+
+  "ingredientSubstitutions": [
+    {
+      "ingredient": "Butter",
+      "substitute": "Olive Oil"
+    },
+    {
+      "ingredient": "Sugar",
+      "substitute": "Honey"
+    },
+    {
+      "ingredient": "Cream",
+      "substitute": "Greek Yogurt"
+    },
+    {
+      "ingredient": "Egg",
+      "substitute": "Flaxseed Mixture"
+    }
+  ],
+
+  "mealPlan": {
+    "breakfast": "Oats with Fruits",
+    "lunch": "Brown Rice with Grilled Chicken",
+    "snack": "Mixed Nuts",
+    "dinner": "Vegetable Soup and Salad"
+  },
+
+  "aiCapabilities": [
+    "Natural Language Understanding",
+    "Recipe Recommendation",
+    "Nutritional Reasoning",
+    "Ingredient Matching",
+    "Personalized Meal Suggestions",
+    "Context-Aware Responses"
+  ],
+
+  "technologies": {
+    "frontend": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "backend": [
+      "Python",
+      "Flask"
+    ],
+    "database": [
+      "SQLite"
+    ],
+    "ai": [
+      "IBM watsonx.ai",
+      "IBM watsonx Orchestrate",
+      "Generative AI"
+    ]
+  },
+
+  "futureEnhancements": [
+    "Voice Assistant",
+    "Barcode Scanner",
+    "Image-Based Food Recognition",
+    "Smart Grocery List",
+    "Calorie Tracker",
+    "Fitness App Integration",
+    "Multilingual Support"
+  ],
+
+  "status": {
+    "projectState": "Completed Prototype",
+    "lastUpdated": "2026-07-11",
+    "readyForPresentation": true
+  }
+}
