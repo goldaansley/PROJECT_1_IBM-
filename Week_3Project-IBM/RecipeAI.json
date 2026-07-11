@@ -1,0 +1,112 @@
+{
+  "student": {
+    "name": "B. Ansley Golda",
+    "email": "ansleygolda02@gmail.com",
+    "phone": "6382909032",
+    "college": "J.N.N Institute of Engineering College",
+    "department": "Computer Science and Engineering",
+    "degree": "B.E.",
+    "year": "Second Year"
+  },
+  "project": {
+    "title": "Recipe AI Assistant",
+    "alternateName": "Recipe AI",
+    "category": "Artificial Intelligence",
+    "domain": "Generative AI",
+    "status": "Completed",
+    "version": "1.0",
+    "description": "Recipe AI Assistant is an intelligent cooking companion that helps users discover recipes, plan meals, analyze nutrition, and receive personalized cooking recommendations based on ingredients, dietary preferences, cuisine, cooking time, and skill level."
+  },
+  "problemStatement": {
+    "title": "Smart AI-Based Recipe Recommendation System",
+    "description": "Many people struggle to decide what to cook with the ingredients available at home. Existing recipe platforms often provide generic results without considering dietary preferences, cooking time, nutrition, or ingredient substitutions. This leads to food waste, unhealthy eating habits, and inefficient meal planning."
+  },
+  "objectives": [
+    "Recommend recipes using available ingredients.",
+    "Generate personalized meal plans.",
+    "Support multiple dietary preferences.",
+    "Provide step-by-step cooking instructions.",
+    "Display nutritional information.",
+    "Suggest ingredient substitutions.",
+    "Reduce food waste.",
+    "Promote healthy eating habits."
+  ],
+  "targetUsers": [
+    "Students",
+    "Working Professionals",
+    "Families",
+    "Fitness Enthusiasts",
+    "Home Cooks",
+    "Beginners"
+  ],
+  "features": [
+    "AI Recipe Recommendation",
+    "Ingredient-Based Search",
+    "Cuisine Selection",
+    "Cooking Time Filter",
+    "Dietary Preference Support",
+    "Nutrition Analysis",
+    "Meal Planning",
+    "Ingredient Substitution",
+    "Cooking Tips",
+    "Food Waste Reduction"
+  ],
+  "technologyStack": {
+    "frontend": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "backend": [
+      "Python",
+      "Flask"
+    ],
+    "database": [
+      "SQLite"
+    ],
+    "ai": [
+      "IBM watsonx.ai",
+      "IBM watsonx Orchestrate",
+      "Large Language Models"
+    ]
+  },
+  "workflow": [
+    "User enters ingredients or recipe requirements.",
+    "AI analyzes the request.",
+    "Recipe database is searched.",
+    "Best matching recipes are selected.",
+    "Nutrition is analyzed.",
+    "Cooking instructions are generated.",
+    "Ingredient substitutions are suggested.",
+    "Meal planning recommendations are displayed."
+  ],
+  "benefits": [
+    "Saves cooking time",
+    "Reduces food waste",
+    "Encourages healthy eating",
+    "Personalized recommendations",
+    "Easy for beginners",
+    "Improves meal planning"
+  ],
+  "futureEnhancements": [
+    "Voice Assistant",
+    "Barcode Scanner",
+    "Image-Based Food Recognition",
+    "Smart Grocery List",
+    "Cloud Synchronization",
+    "Mobile Application",
+    "Regional Language Support"
+  ],
+  "developer": {
+    "name": "B. Ansley Golda",
+    "role": "AI Developer",
+    "projectRole": "Design, Development, Testing and Documentation"
+  },
+  "declaration": {
+    "submittedBy": "B. Ansley Golda",
+    "projectTitle": "Recipe AI Assistant",
+    "institution": "J.N.N Institute of Engineering College",
+    "academicYear": "2026-2027",
+    "statement": "I hereby declare that this project is developed as part of my academic learning and is an original implementation created for educational purposes."
+  }
+}
